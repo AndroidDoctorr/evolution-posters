@@ -23,7 +23,7 @@ This shows the development and diversity of primates, from the most recent commo
 This covers the known evolution and diversity of genus Homo, from Orrorin Tugenensis to Homo Spaiens Sapiens.
 
 **[WORK IN PROGRESS]**
-![Primates](/evoltree-hominids.png)
+![Primates](/evoltree-humans.png)
 
 ## Birds
 
