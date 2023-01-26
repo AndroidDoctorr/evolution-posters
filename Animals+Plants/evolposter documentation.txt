@@ -1,0 +1,140 @@
+CLADE - [timeline] Description. (e.g. [i]species shown[/i]) ^[phylogeny reference #] ^[image reference #] ^[description reference #]
+
+chriacus - euarchontoglires
+
+EUMETAZOA - [Edicarian - Present]
+CNIDARIA - [E - ] Radially symmetrical marine animals with a single orifice surrounded by tentacles
+PARAZOA - [E - ] 
+PLACOZOA - [E - ] Only one extant species- a simple, basal metazoan consisting of a flat blob of cells separated into two layers (Trichoplax Adhaerens)
+SPONGES - [E - ] Collections of unspecialized cells forming water filtering systems [E - ]
+CORALS - 
+JELLYFISH - 
+BILATERIA - [E - ] Laterally symmetrical animals with a complete digestive tract (except flatworms and jaw worms)
+PROTOSTOMES - [E - ] Digestive tract develops mouth-first
+DEUTEROSTOMES - [E - ] Digestive tract develops anus-first
+ECDYSOZOA - [Early ? - ] Shed exoskeletons (Anomalocaris)
+LOPHOTROCHOZOA - [Early ? - ] Develop with spiral/wheel-like body plan
+ECHINODERMS - [Early ? - ] Marine animals with bilateral symmetry early in development and pentaradial symmetry as adults, asexual reproduction, and rapid tissue regeneration (Arkarua?)
+CHORDATES - Deuterostomes with a notochord, pharyngeal slits and a post-anal tail at some ponit during development (Pikaia)
+NEMATODES - Roundworms with collagenous cuticles, placement disputed (Caenorhabditis Elegans)
+BRACHIOPODS - [Early ? - ] Marine animals with hard shells on the upper and lower surfaces, hinged at the rear.
+ANNELIDS - Segmented, triploblastic worms (Lumbricus terrestris)
+TUNICATES - [? - ] Filter-feeding marine chordates
+VERTEBRATES - [? - ] Chordates with a skull and(/or) vertebrae
+ARTHROPODS - [Early ? - ] Ecdysozoa with segmented bodies and jointed limbs
+MOLLUSCS - [Early ? - ]
+ASTEROZOA - 
+CRINOIDS
+GNATHOSTOMES
+CRUSTACEANS
+TRILOBITES [? - P]
+CEPHALOPODS
+ECHINOIDS
+AGNATHA
+CHELICERATA
+GASTROPODS
+NAUTOLIDS
+CHONDRICHTHYES
+OSTEOICHTHYES
+HORSESHOE CRABS
+AMMONITES - [~400-65.5 Mya] Cephalopods with a spiral shell separated into segments by septa
+SARCOPTERYGII - [~420 Mya - ] Vertebrates with lobed fins or limbs attached to the body with a single bone.
+ACTINOPTERYGII - [~420 Mya - ] Ray-finned fish
+ARACHNIDS
+MYRIAPODS
+COLEOIDS
+SHARKS
+TETRAPODS
+SCORPIONS
+INSECTS
+RAYS
+LUNGFISH
+SPIDERS
+DRAGONFLIES
+OCTOPODES - [Mid C - ]
+AMNIOTES - [Mid C - ] Eggs develop amnios adapted for land birth, lack larval stage
+AMPHIBIANS
+NEOPTERA
+SYNAPSIDS
+REPTILES
+EUNEOPTERA
+BLATTOPTERA
+SQUID - [K - ]
+ANAPSIDS
+ORTHOPTERA
+THERAPSIDS
+PELYCOSAURS
+DIAPSIDS
+DICTYOPTERA
+THEROCEPHALIA
+ARCHOSAURS
+LEPIDOSAURS
+LICE
+BUGS
+COCKROACHES
+CYNODONTS
+CROCODILIA
+PLESIOSAURS
+MECOPTERA
+HYMENOPTERA
+MANTIDS
+CYNOGNATHUS
+ORNITHODIRA
+TRITYLODONTIDS
+DINOSAURS
+PTEROSAURS - [~210-65.5 Mya]
+SQUAMATA - [Late T - ]
+MOTHS
+FLIES
+ANTS
+MONOTREMES
+ORNITHSCHIA
+SAURISCHIA
+SAUROPODS
+GENASAURIA - [~200-65.5 Mya]
+HETERODONTOSAURS - 
+THEROPODS
+MAMMALS
+CERAPODS
+THYREOPHORA
+COELUROSAURIA
+CARNOSAURIA
+BEES
+MARSUPIALS
+PLACENTALS
+ORNITHOPODS
+STEGOSAURS
+RAPTORS
+MARGINOCEPHALIA
+ANKLYOSAURS
+BIRDS - [Late J - ]
+PALEOGNATHS - [K - ]
+NEOGNATHS - [K - ]
+ATLANTOGENATA - [~60 Mya - ...]
+XENARTHRA
+AFROTHERIA
+BOREOEUTHERIA
+LAURASIATHERIA
+INSECTIVORES
+EUARCHONTOGLIRES
+EUARCHONTA
+GLIRES
+SCROTIFERA
+FEREUNGULATA
+TREE SHREWS
+PRIMATES
+HARES
+RODENTS
+BATS - [~52 Mya - ] Winged, nocturnal mammals capable of echolocation
+UNGULATES
+CARNIVORA
+CANIFORMES
+FELIFORMES
+PERISSODACTYLS
+HIPPOMORPHA
+CERATOMORPHA
+ARTIODACTYLS
+CAMELIDS
+SUINA
+PECORA
+CETACEA
